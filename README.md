@@ -18,3 +18,4 @@ I transferred the photo to the project folder
 In the code I wrote the name of the photo, the size of the photo, the distance from the edges,
 
 Used two colors white as the main and black i title
+)
